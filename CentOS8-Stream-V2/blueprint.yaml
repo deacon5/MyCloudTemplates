@@ -1,5 +1,5 @@
 name: CentOS8_Stream
-version: 1.0
+version: 0.2
 formatVersion: 1
 inputs:
   hostname:
